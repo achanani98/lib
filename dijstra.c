@@ -113,6 +113,5 @@ int main() {
     
     printf("%d\n",min[n-1]);
     
-    
     return 0;
 }
